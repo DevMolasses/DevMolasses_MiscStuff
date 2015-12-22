@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg3494"
-   viewBox="0 0 945 675"
-   height="7.5in"
-   width="10.5in"
+   viewBox="0 0 900 607.5"
+   height="6.75in"
+   width="10in"
    inkscape:version="0.91 r13725"
    sodipodi:docname="LaVoieScripturePlaque.svg">
   <sodipodi:namedview
@@ -50,7 +50,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.92126236,0,0,0.92126236,84.179099,-335.11385)"
+     transform="matrix(0.92126236,0,0,0.92126236,60.179099,-344.61385)"
      id="g8970">
     <flowRoot
        xml:space="preserve"
@@ -79,7 +79,7 @@
          y="918.41052">Lord </tspan></text>
   </g>
   <flowRoot
-     transform="translate(-59.41818,-33.94545)"
+     transform="translate(-83.41818,-43.44545)"
      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:ChopinScript;-inkscape-font-specification:'ChopinScript, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="flowRoot5839"
      xml:space="preserve"><flowRegion
@@ -92,7 +92,7 @@
          id="rect5843" /></flowRegion><flowPara
        id="flowPara5845">Joshua 24:15</flowPara></flowRoot>  <g
      id="g9018"
-     transform="matrix(0.99487453,0,0,0.99487453,0.69193848,1.2916186)">
+     transform="matrix(0.99487453,0,0,0.99487453,-23.308062,-8.208381)">
     <text
        id="text3569"
        y="239.65408"
